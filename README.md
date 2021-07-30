@@ -2,5 +2,4 @@
 
 
 
-The repository contains sql queries based on the tasks from pdf:
-https://www.cs.put.poznan.pl/bbebel/sbd_1/zadania/pdf/02Select_zadania.pdf
+The folders contain sql queries based on the tasks located in each folder. 
